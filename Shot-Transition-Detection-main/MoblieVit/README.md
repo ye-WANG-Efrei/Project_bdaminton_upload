@@ -21,4 +21,3 @@
 8. Set the weight path `model_weight_path` and the predicted image path `img_path` and you can use the `predict.py` script to make predictions
 9. If you want to use your own dataset, please follow the file structure of the classification dataset (i.e. one category for one folder) and set the `num_classes` in the training and prediction scripts to the number of categories in your own data
 
-Translated with www.DeepL.com/Translator (free version)
