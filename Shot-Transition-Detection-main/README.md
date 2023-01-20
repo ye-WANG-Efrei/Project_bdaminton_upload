@@ -25,8 +25,8 @@ conda create --name <env> --file requirements.txt
 + **Outputs:** A folder will be created, i.e. "./videos/<video_name>" , that will include:
 >  - All video shots, ".mp4".
 > -  A “.csv” file with information about all of the generated video shots.
->
-```The PATH of Outputs is : Projec_badminton_video_segmetation\Project_bdaminton_upload\Shot-Transition-Detection-main\videos\```
++ The PATH of Outputs is : Project_bdaminton_upload\Shot-Transition-Detection-main\videos\ 
+
 # Cite us please
 Please cite the following papers if you are using this code
 ```
